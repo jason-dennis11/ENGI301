@@ -20,7 +20,7 @@ Finally, Place the speaker on top and input breadboards inside build.
 4)	Place under desired laser(s)
 5)	Listen to beautiful notes!
 
-##License   
+## License   
 Copyright 2019 Jason Dennis
 
 
