@@ -1,7 +1,7 @@
 #  Laser Harp Controller PCB
   A PCB design for a laser harp using 5V laser diodes and a PocketBeagle. Play musical notes just by waving your hand!
 
-Docs - contains project proposal & Bill-of-Materials 
+Docs - contains project proposal, Bill-of-Materials.csv, and a pdf of the schematics
 
 Eagle - contains library, schematics, and layout files for PCB design 
 
