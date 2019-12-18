@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-12-18T07:32:45Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.53,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "LaserHarp"
+        },
+        "Owner": "Jason Dennis <jad11@rice.edu>",
+        "Size": {
+            "X": 86.36,
+            "Y": 76.2
+        }
+    }
+}
