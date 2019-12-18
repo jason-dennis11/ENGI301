@@ -9,6 +9,8 @@ assignment_05:
   
 project_1:
 
-    docs:
+    Contains files related to project 1
     
-        Dennis_ENGIO301_ProjectProposal - ppt. file that contains the project introduction
+project_2: 
+
+    Contains files related to project 2
